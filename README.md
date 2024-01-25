@@ -1,5 +1,6 @@
 
 <p style="font-size: 16px;"> Overview 
+ 
 This inquiry focuses on the implementation and optimization of health benefits for workers within an organizational context. Recognizing the paramount importance of employee well-being, this query delves into various facets of health benefits, aiming to understand, refine, and maximize the impact of these programs on the overall health and satisfaction of the workforce.
 
 <h1 style="font-size: 20px;">Project Objectives </h1>
@@ -10,7 +11,6 @@ This inquiry focuses on the implementation and optimization of health benefits f
 
 <h1 style="font-size: 16px;"> Data Used 
   
- - Data HR Data with over 740 rows           </h1>
- 
+ - Data HR Data with over 740 rows  </h1>
  - Data Cleaning & Analysis - MySQL Workbench </h1>
 
