@@ -1,6 +1,6 @@
-<h1 style="font-size: 26px;">LOCAL-COMPANY-HR-HEALTH-BENEFIT-ANALYSIS
+<h1 style="font-size: 20px;">LOCAL-COMPANY-HR-HEALTH-BENEFIT-ANALYSIS
 
-<p style="font-size: 16px;"> Overview 
+<p style="font-size: 15px;"> Overview 
 This inquiry focuses on the implementation and optimization of health benefits for workers within an organizational context. Recognizing the paramount importance of employee well-being, this query delves into various facets of health benefits, aiming to understand, refine, and maximize the impact of these programs on the overall health and satisfaction of the workforce.
 
 <h1 style="font-size: 20px;">Project Objectives </h1>
@@ -10,7 +10,7 @@ This inquiry focuses on the implementation and optimization of health benefits f
 - Calculate a Wage increase or annual compensation for non-smokers for an insurance budget of $983,211 for all non-smokers </h1>
 
 <h1 style="font-size: 18px;">
-- Data - HR Data with over 740 rows 
+- Data HR Data with over 740 rows 
 
 - Data Cleaning & Analysis - MySQL Workbench
 
