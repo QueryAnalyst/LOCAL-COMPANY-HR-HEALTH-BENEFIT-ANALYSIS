@@ -10,8 +10,7 @@ This inquiry focuses on the implementation and optimization of health benefits f
 
 <h1 style="font-size: 16px;"> Data Used 
   
- - Data HR Data with over 740 rows 
-
- - Data Cleaning & Analysis - MySQL Workbench
-
+ - Data HR Data with over 740 rows </h1>
+ 
+ - Data Cleaning & Analysis - MySQL Workbench </h1>
 
